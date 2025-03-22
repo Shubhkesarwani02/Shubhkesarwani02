@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web Development Projects using React.js.<br>I'm currently learning React.js and Next.js along with Node.js for Backend.
-
+Currently working on web development projects using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhkesarwani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhkesarwani242@gmail.com) 
